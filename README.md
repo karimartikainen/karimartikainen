@@ -2,17 +2,16 @@
 
 ## 🚀 Technologies
 
-I’m experienced with and happy to help you explore:
+I’m experienced with:
 
 - **Frontend**: JavaScript, TypeScript, React, Next.js, Tailwind CSS  
-- **Backend**: Node.js, Prisma  
+- **Backend**: Node.js, Prisma, Hono  
 - **Data & Analytics**: Python, SQL, Power BI, Fabric  
 - **Cloud Platforms**: AWS, Azure, GCP
   
 ## 📫 How to Reach Me
 
-- [GitHub Profile](https://github.com/karimartikainen)
-- [LinkedIn](https://www.linkedin.com/in/kari-martikainen-b861011a4/)
+- [LinkedIn](https://www.linkedin.com/in/kari-martikainen/)
 - Email: kari@black.com
 
 
