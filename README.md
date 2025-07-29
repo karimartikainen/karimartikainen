@@ -12,7 +12,7 @@ I’m experienced with:
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/kari-martikainen/)
-- Email: kari@black.com
+- Email: kari_martikainen@icloud.com
 
 
 <!---
