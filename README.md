@@ -7,7 +7,7 @@ I’m experienced with:
 - **Frontend**: JavaScript, TypeScript, React, Next.js, Tailwind CSS  
 - **Backend**: Node.js, Prisma, Hono  
 - **Data & Analytics**: Python, SQL, Power BI, Fabric  
-- **Cloud Platforms**: Azure,GCP
+- **Cloud Platforms**: Azure, GCP
   
 ## 📫 How to Reach Me
 
